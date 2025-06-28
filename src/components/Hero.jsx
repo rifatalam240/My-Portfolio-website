@@ -26,7 +26,7 @@ const Hero = () => {
       </div>
       <div className="md:w-1/2 pt-10 flex justify-center items-center md:pb-24 lg:pl-0 lg:pb-0 md:pl-16 lg:pt-24">
         {" "}
-        <img className="lg:w-2/5 w-[200px] mb-6 md:w-[250px] rounded-full"
+        <img className="lg:w-2/5 w-[200px] mb-6 md:w-[250px] rounded-full border-2 border-[#00DFD8] shadow-lg"
           src="https://i.postimg.cc/kMFbD9sS/3-D-Freelancer-Character-Preparing-Online-Portfolio-Displaying-Website-on-Laptop-Screen-Stock-Photo-A.webp"
           alt=""
         />
