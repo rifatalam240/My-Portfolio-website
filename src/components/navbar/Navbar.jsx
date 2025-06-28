@@ -6,7 +6,7 @@ import { GoFileMedia } from "react-icons/go";
 
 const Navbar = () => {
   return (
-    <div className="fixed top-4 left-1/2 transform -translate-x-1/2 z-50 bg-[#111827] text-white lg:w-[900px] md:w-[600px] rounded-4xl md:h-[60px] md:flex md:items-center md:justify-center px-4">
+    <div className="fixed shadow-2xl border-1 border-gray-50 top-4 left-1/2 transform -translate-x-1/2 z-50 bg-[#111827] text-white lg:w-[900px] md:w-[600px] rounded-4xl md:h-[60px] md:flex md:items-center md:justify-center px-4">
 
 
       <div className="md:hidden flex justify-center items-center gap-x-10   py-4">
