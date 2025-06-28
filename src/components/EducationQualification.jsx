@@ -4,7 +4,7 @@ const EducationQualification = () => {
   return (
     <section id="education" className="py-12 mt-10">
       {/* Title outside card for alignment consistency */}
-      <h2 className="text-4xl font-extrabold text-center text-white mb-8">
+      <h2 className="text-4xl font-extrabold text-center text-[#00DFD8] mb-8">
         Educational Qualification
       </h2>
       <div className="max-w-3xl mx-auto px-6">
