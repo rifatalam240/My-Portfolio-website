@@ -24,7 +24,7 @@ const projects = [
   },
   {
     id: 2,
-    name: "E-commerce Store",
+    name: "E-commerce Websites for Home Repair Tools & Materials",
     images: [
       "https://i.postimg.cc/9FTnNvMF/Screenshot-2025-06-30-011924.png",
       "https://i.postimg.cc/3xx2DvP5/Screenshot-2025-06-30-012032.png",
