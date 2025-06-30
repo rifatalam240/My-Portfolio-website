@@ -5,7 +5,7 @@ import { Link } from "react-router";
 const projects = [
   {
     id: 1,
-    name: "Portfolio Website",
+    name: " E-commerce Websites for Home Repair Tools & Materials",
     images: [
       "https://i.postimg.cc/pVmMWG0K/Screenshot-2025-06-30-004716.png",
       "https://i.postimg.cc/5N8GyZ8Q/Screenshot-2025-06-30-004939.png",
@@ -13,7 +13,7 @@ const projects = [
     ],
     stack: ["React", "TailwindCSS", "Node.js", "MongoDB", "Express.js"],
     description:
-      "A personal portfolio website to showcase my skills, projects, and experience as a frontend developer.",
+      "A user-friendly e-commerce site offering diverse home repair tools and materials with easy navigation, categorized products, and customer reviews for quick and confident shopping.",
     live: "https://peppy-mousse-674e6f.netlify.app/",
     github:
       "https://github.com/Programming-Hero-Web-Course4/b11a11-server-side-rifatalam240.git",
@@ -24,19 +24,19 @@ const projects = [
   },
   {
     id: 2,
-    name: "E-commerce Websites for Home Repair Tools & Materials",
+    name: "E-commerce Store",
     images: [
       "https://i.postimg.cc/9FTnNvMF/Screenshot-2025-06-30-011924.png",
       "https://i.postimg.cc/3xx2DvP5/Screenshot-2025-06-30-012032.png",
       "https://i.postimg.cc/cJ8gQMhj/Screenshot-2025-06-30-011815.png",
     ],
-    stack: ["React","TailwindCSS","Daisi-Ui"],
-    description:
-      "A modern e-commerce platform with product search, cart",
+    stack: ["React", "TailwindCSS", "Daisi-Ui"],
+    description: "A modern e-commerce platform with product search, cart",
     live: "https://rainbow-cheesecake-dd61a9.netlify.app/",
-    github: "https://github.com/programming-hero-web-course1/b11a8-router-booking-rifatalam240.git",
+    github:
+      "https://github.com/programming-hero-web-course1/b11a8-router-booking-rifatalam240.git",
     challenges:
-        "Designing a unique layout, optimizing for performance, and ensuring mobile responsiveness.",
+      "Designing a unique layout, optimizing for performance, and ensuring mobile responsiveness.",
     improvements:
       "Add payment gateway integration, improve product filtering, and enhance UI animations.",
   },
