@@ -24,14 +24,15 @@ const projects = [
   },
   {
     id: 2,
-    name: "E-commerce Store",
+    name: "Doctor Appointment Booking Website",
     images: [
       "https://i.postimg.cc/9FTnNvMF/Screenshot-2025-06-30-011924.png",
       "https://i.postimg.cc/3xx2DvP5/Screenshot-2025-06-30-012032.png",
       "https://i.postimg.cc/cJ8gQMhj/Screenshot-2025-06-30-011815.png",
     ],
     stack: ["React", "TailwindCSS", "Daisi-Ui"],
-    description: "A modern e-commerce platform with product search, cart",
+    description:
+      "A user-friendly platform for booking doctor appointments, offering verified profiles, specialties, and schedules to help patients find and consult the right healthcare professional easily.",
     live: "https://rainbow-cheesecake-dd61a9.netlify.app/",
     github:
       "https://github.com/programming-hero-web-course1/b11a8-router-booking-rifatalam240.git",
