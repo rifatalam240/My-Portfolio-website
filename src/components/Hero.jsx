@@ -3,7 +3,10 @@ import { FaLinkedin, FaFacebook, FaTwitter } from "react-icons/fa";
 
 const Hero = () => {
   return (
-    <div className="bg-[#0F172A] lg:h-[90vh] md:h-[90vh] px-4 md:px-16 flex flex-col md:flex-row sm:py-6 md:py-20 justify-center items-center rounded-2xl pb-6">
+    <div
+      id="home"
+      className="bg-[#0F172A] lg:h-[90vh] md:h-[90vh]  px-4 md:px-16 flex flex-col md:flex-row sm:py-6 md:py-20 justify-center items-center rounded-2xl pb-6"
+    >
       <div className="md:w-1/2 space-y-4 pt-24 md:pt-0 md:pb-40 lg:pb-0 flex flex-col justify-center">
         <p className="lg:text-5xl md:text-4xl text-3xl lg:pt-24 font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-[#00DFD8] to-[#007CF0]">
           Hey, I'm Muhammad Rifat
@@ -29,7 +32,7 @@ const Hero = () => {
               <FaLinkedin className="text-[#0A66C2] text-2xl" />
             </a>
             <a
-              href="https://facebook.com/"
+              href="https://www.facebook.com/muhammad.rifat.594290"
               target="_blank"
               rel="noopener noreferrer"
               className="rounded-full border-2 border-[#00DFD8] bg-[#0F172A] p-3 shadow-lg transition hover:scale-110"
@@ -38,7 +41,7 @@ const Hero = () => {
               <FaFacebook className="text-[#1877F3] text-2xl" />
             </a>
             <a
-              href="https://twitter.com/"
+              href="https://x.com/JaberChowdhur14https://www.linkedin.com/in/md-jaber-hossain-chowdhury-543335252/"
               target="_blank"
               rel="noopener noreferrer"
               className="rounded-full border-2 border-[#00DFD8] bg-[#0F172A] p-3 shadow-lg transition hover:scale-110"

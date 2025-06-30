@@ -10,14 +10,17 @@ const Footer = () => {
         </p>
         <div className="flex gap-6 mt-3 md:mt-0">
           <a
-            href="mailto:your.email@example.com"
+            // href="mailto:rifatalam240@gmail.com"
+            href="https://mail.google.com/mail/?view=cm&fs=1&to=rifat@gmail.com&su=Hello&body=I want to contact you
+  "
             className="flex items-center gap-2 text-[#00DFD8] hover:text-white transition-colors duration-200 font-semibold"
           >
             <FaEnvelope className="text-[#EA4335] text-lg" />
             Email
           </a>
+
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/rifatalam240"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 text-[#00DFD8] hover:text-white transition-colors duration-200 font-semibold"
@@ -26,7 +29,7 @@ const Footer = () => {
             GitHub
           </a>
           <a
-            href="https://wa.me/8801234567890"
+            href="https://wa.me/8801819524477"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 text-[#00DFD8] hover:text-white transition-colors duration-200 font-semibold"

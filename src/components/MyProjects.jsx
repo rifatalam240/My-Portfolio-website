@@ -7,15 +7,16 @@ const projects = [
     id: 1,
     name: "Portfolio Website",
     images: [
-      "https://i.postimg.cc/3x3QzSGq/portfolio.png",
-      "https://i.postimg.cc/8c6y8k7F/ecommerce.png",
-      "https://i.postimg.cc/3wL8w1Zy/taskmanager.png",
+      "https://i.postimg.cc/pVmMWG0K/Screenshot-2025-06-30-004716.png",
+      "https://i.postimg.cc/5N8GyZ8Q/Screenshot-2025-06-30-004939.png",
+      "https://i.postimg.cc/3NXBrQzK/Screenshot-2025-06-30-005237.png",
     ],
-    stack: ["React", "TailwindCSS", "Vite"],
+    stack: ["React", "TailwindCSS", "Node.js", "MongoDB", "Express.js"],
     description:
       "A personal portfolio website to showcase my skills, projects, and experience as a frontend developer.",
-    live: "https://your-portfolio-live-link.com",
-    github: "https://github.com/yourusername/portfolio-client",
+    live: "https://peppy-mousse-674e6f.netlify.app/",
+    github:
+      "https://github.com/Programming-Hero-Web-Course4/b11a11-server-side-rifatalam240.git",
     challenges:
       "Designing a unique layout, optimizing for performance, and ensuring mobile responsiveness.",
     improvements:
@@ -25,17 +26,17 @@ const projects = [
     id: 2,
     name: "E-commerce Store",
     images: [
-      "https://i.postimg.cc/8c6y8k7F/ecommerce.png",
-      "https://i.postimg.cc/3x3QzSGq/portfolio.png",
-      "https://i.postimg.cc/3wL8w1Zy/taskmanager.png",
+      "https://i.postimg.cc/9FTnNvMF/Screenshot-2025-06-30-011924.png",
+      "https://i.postimg.cc/3xx2DvP5/Screenshot-2025-06-30-012032.png",
+      "https://i.postimg.cc/cJ8gQMhj/Screenshot-2025-06-30-011815.png",
     ],
-    stack: ["React", "Redux", "Firebase"],
+    stack: ["React","TailwindCSS","Daisi-Ui"],
     description:
-      "A modern e-commerce platform with product search, cart, and authentication features.",
-    live: "https://your-ecommerce-live-link.com",
-    github: "https://github.com/yourusername/ecommerce-client",
+      "A modern e-commerce platform with product search, cart",
+    live: "https://rainbow-cheesecake-dd61a9.netlify.app/",
+    github: "https://github.com/programming-hero-web-course1/b11a8-router-booking-rifatalam240.git",
     challenges:
-      "Implementing secure authentication, managing global state, and handling real-time data.",
+        "Designing a unique layout, optimizing for performance, and ensuring mobile responsiveness.",
     improvements:
       "Add payment gateway integration, improve product filtering, and enhance UI animations.",
   },
@@ -43,15 +44,15 @@ const projects = [
     id: 3,
     name: "Task Manager App",
     images: [
-      "https://i.postimg.cc/3wL8w1Zy/taskmanager.png",
-      "https://i.postimg.cc/8c6y8k7F/ecommerce.png",
-      "https://i.postimg.cc/3x3QzSGq/portfolio.png",
+      "https://i.postimg.cc/bvFDnV11/Screenshot-2025-06-30-010413.png",
+      "https://i.postimg.cc/BnmXW7YR/Screenshot-2025-06-30-010845.png",
+      "https://i.postimg.cc/k4KJ5TsJ/Screenshot-2025-06-30-011053.png",
     ],
     stack: ["React", "Node.js", "MongoDB", "Express.js"],
     description:
       "A full-stack task management app to organize daily activities with user authentication.",
-    live: "https://your-taskmanager-live-link.com",
-    github: "https://github.com/yourusername/taskmanager-client",
+    live: "https://gorgeous-bavarois-4b9fb4.netlify.app/",
+    github: "https://github.com/rifatalam240/GreenBond-.git",
     challenges:
       "Building REST APIs, managing authentication, and deploying the app.",
     improvements:
