@@ -141,7 +141,7 @@ const Contact = () => {
   )}`;
 
   return (
-    <section id="contact" className="py-12 mt-10">
+    <section id="contact" className="py-12">
       <h2 className="text-4xl font-extrabold text-center text-[#00DFD8] mb-8 animate-fade-in">
         Contact Information
       </h2>

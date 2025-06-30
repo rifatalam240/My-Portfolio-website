@@ -2,7 +2,7 @@ import React from "react";
 
 const EducationQualification = () => {
   return (
-    <section id="education" className="py-12 mt-10">
+    <section id="education" className="py-12">
       {/* Title outside card for alignment consistency */}
       <h2 className="text-4xl font-extrabold text-center text-[#00DFD8] mb-8">
         Educational Qualification

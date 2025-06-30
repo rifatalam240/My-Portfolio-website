@@ -81,7 +81,7 @@ const Carousel = ({ images }) => {
   };
 
   return (
-    <div className="relative w-full h-56 md:h-80 flex items-center justify-center mb-4">
+    <div className="relative w-full h-56 md:h-80 flex items-center justify-center ">
       <img
         src={images[current]}
         alt="Project Screenshot"

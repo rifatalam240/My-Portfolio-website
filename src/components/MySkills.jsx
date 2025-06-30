@@ -114,7 +114,7 @@ const categories = ["Frontend", "Backend", "Tools"];
 const MySkills = () => {
   return (
     <section id="skills" className="py-12 mt-10">
-      <h2 className="text-4xl font-extrabold text-center text-white mb-8">
+      <h2 className="text-4xl font-extrabold text-center text-[#00DFD8] mb-8">
         My Skills
       </h2>
       <div className="max-w-5xl mx-auto px-4">
