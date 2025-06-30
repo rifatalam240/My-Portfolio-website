@@ -43,7 +43,7 @@ const projects = [
   },
   {
     id: 3,
-    name: "Task Manager App",
+    name: "Gardening Tips & Resources Website",
     images: [
       "https://i.postimg.cc/bvFDnV11/Screenshot-2025-06-30-010413.png",
       "https://i.postimg.cc/BnmXW7YR/Screenshot-2025-06-30-010845.png",
@@ -51,7 +51,7 @@ const projects = [
     ],
     stack: ["React", "Node.js", "MongoDB", "Express.js"],
     description:
-      "A full-stack task management app to organize daily activities with user authentication.",
+      "A beginner-friendly gardening website offering plant care tips, seasonal guides, and DIY solutions to help users grow and maintain beautiful, healthy home gardens.",
     live: "https://gorgeous-bavarois-4b9fb4.netlify.app/",
     github: "https://github.com/rifatalam240/GreenBond-.git",
     challenges:
