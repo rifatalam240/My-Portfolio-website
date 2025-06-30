@@ -8,10 +8,26 @@ import { RiUser3Line } from "react-icons/ri";
 const navLinks = [
   { to: "home", label: "Home", icon: <IoHomeOutline className="text-xl" /> },
   { to: "about", label: "About", icon: <RiUser3Line className="text-xl" /> },
-  { to: "skills", label: "Skills", icon: <FaUserGraduate className="text-xl" /> },
-  { to: "projects", label: "Projects", icon: <FaProjectDiagram className="text-xl" /> },
-  { to: "education", label: "Education", icon: <FaUserGraduate className="text-xl" /> },
-  { to: "contact", label: "Contact", icon: <MdOutlineContactPhone className="text-xl" /> },
+  {
+    to: "skills",
+    label: "Skills",
+    icon: <FaUserGraduate className="text-xl" />,
+  },
+  {
+    to: "projects",
+    label: "Projects",
+    icon: <FaProjectDiagram className="text-xl" />,
+  },
+  {
+    to: "education",
+    label: "Education",
+    icon: <FaUserGraduate className="text-xl" />,
+  },
+  {
+    to: "contact",
+    label: "Contact",
+    icon: <MdOutlineContactPhone className="text-xl" />,
+  },
 ];
 
 const Navbar = () => {
@@ -68,8 +84,8 @@ const Navbar = () => {
         ))}
         {/* Resume Download */}
         <a
-          href="/resume.pdf"
-          download
+          href="https://drive.google.com/file/d/1S7Y2aFB7TqDHMIm-KID9kXOW2RB8GiwO/view?usp=sharing"
+          // download
           className="flex flex-col items-center px-2 py-1 rounded-full hover:bg-[#00DFD8] transition text-xs font-semibold whitespace-nowrap"
         >
           <GoFileMedia className="text-xl" />
@@ -83,9 +99,7 @@ const Navbar = () => {
             key={link.label}
             onClick={() => handleScroll(link.to)}
             className={`flex items-center gap-2 transition-colors font-semibold whitespace-nowrap px-3 py-1 rounded-full ${
-              active === link.to
-                ? "text-[#00DFD8]"
-                : "hover:text-[#00DFD8]"
+              active === link.to ? "text-[#00DFD8]" : "hover:text-[#00DFD8]"
             }`}
             style={{
               background: "transparent",
@@ -98,7 +112,7 @@ const Navbar = () => {
         ))}
         {/* Resume Download */}
         <a
-          href="/resume.pdf"
+          href="https://drive.google.com/file/d/1S7Y2aFB7TqDHMIm-KID9kXOW2RB8GiwO/view?usp=sharing"
           download
           className="flex items-center gap-2 px-3 py-1 rounded-full hover:bg-[#00DFD8] hover:text-[#0F172A] transition-colors font-semibold whitespace-nowrap border-2 border-[#00DFD8]"
         >
