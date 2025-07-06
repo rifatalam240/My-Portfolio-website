@@ -84,7 +84,7 @@ const Navbar = () => {
         ))}
         {/* Resume Download */}
         <a
-          href="https://drive.google.com/file/d/1S7Y2aFB7TqDHMIm-KID9kXOW2RB8GiwO/view?usp=sharing"
+          href="https://drive.google.com/file/d/19NxjL18CmfAEPZw0AYxQoFT-_TV-V8gc/view?usp=sharing"
           // download
           className="flex flex-col items-center px-2 py-1 rounded-full hover:bg-[#00DFD8] transition text-xs font-semibold whitespace-nowrap"
         >
@@ -112,7 +112,7 @@ const Navbar = () => {
         ))}
         {/* Resume Download */}
         <a
-          href="https://drive.google.com/file/d/1S7Y2aFB7TqDHMIm-KID9kXOW2RB8GiwO/view?usp=sharing"
+          href="https://drive.google.com/file/d/19NxjL18CmfAEPZw0AYxQoFT-_TV-V8gc/view?usp=sharing"
           download
           className="flex items-center gap-2 px-3 py-1 rounded-full hover:bg-[#00DFD8] hover:text-[#0F172A] transition-colors font-semibold whitespace-nowrap border-2 border-[#00DFD8]"
         >
