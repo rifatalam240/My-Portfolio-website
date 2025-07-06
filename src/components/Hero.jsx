@@ -53,7 +53,7 @@ const Hero = () => {
           <div className="lg:flex space-y-4  gap-4">
             <div className="flex gap-4">
               <a
-                href="https://drive.google.com/file/d/1S7Y2aFB7TqDHMIm-KID9kXOW2RB8GiwO/view?usp=sharing"
+                href="https://drive.google.com/file/d/19NxjL18CmfAEPZw0AYxQoFT-_TV-V8gc/view?usp=sharing"
                 // download
                 className="btn shadow-xl bg-gradient-to-r from-[#007CF0] to-[#00DFD8] font-bold text-white rounded-full px-6 py-3 transition hover:scale-105"
               >
