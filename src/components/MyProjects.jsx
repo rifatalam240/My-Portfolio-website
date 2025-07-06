@@ -14,9 +14,9 @@ const projects = [
     stack: ["React", "TailwindCSS", "Node.js", "MongoDB", "Express.js"],
     description:
       "A user-friendly e-commerce site offering diverse home repair tools and materials with easy navigation, categorized products, and customer reviews for quick and confident shopping.",
-    live: "https://peppy-mousse-674e6f.netlify.app/",
+    live: "https://home-services-dusky.vercel.app/",
     github:
-      "https://github.com/Programming-Hero-Web-Course4/b11a11-server-side-rifatalam240.git",
+      "https://github.com/rifatalam240/home_services.git",
     challenges:
       "Designing a unique layout, optimizing for performance, and ensuring mobile responsiveness.",
     improvements:
@@ -52,7 +52,7 @@ const projects = [
     stack: ["React", "Node.js", "MongoDB", "Express.js"],
     description:
       "A beginner-friendly gardening website offering plant care tips, seasonal guides, and DIY solutions to help users grow and maintain beautiful, healthy home gardens.",
-    live: "https://gorgeous-bavarois-4b9fb4.netlify.app/",
+    live: "https://green-bond-liart.vercel.app/dashboard",
     github: "https://github.com/rifatalam240/GreenBond-.git",
     challenges:
       "Building REST APIs, managing authentication, and deploying the app.",
